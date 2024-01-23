@@ -15,7 +15,7 @@ Very specifically, this javascripts are meant to improve my own browsing experie
 
 Pre requisite: UserScripts (from IOS app store) IOS 15.0 and above only as of writing this.
 
-1. Download all the files from this repository into one folder.
+1. Download the zip file from this repository and extract all it's content into one folder.
 2. From UserScript app, point the folder to reference from to the folder contaning the files.
 
 # Deployment guide (for PC)
